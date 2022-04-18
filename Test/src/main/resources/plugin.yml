@@ -1,0 +1,4 @@
+name: Cnyz
+version: '${project.version}'
+main: me.cnyz.cnyz.Cnyz
+api-version: 1.18
