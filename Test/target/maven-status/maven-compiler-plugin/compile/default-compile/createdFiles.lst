@@ -1,0 +1,5 @@
+me\cnyz\cnyz\commands\Helloword.class
+me\cnyz\cnyz\commands\sendMessage.class
+me\cnyz\cnyz\events\Shielding.class
+me\cnyz\cnyz\Cnyz.class
+me\cnyz\cnyz\events\LeaveBed.class

@@ -2,3 +2,18 @@ name: Cnyz
 version: '${project.version}'
 main: me.cnyz.cnyz.Cnyz
 api-version: 1.18
+commands:
+#  HelloSolitary-Beborn:
+#    description: Hello, Thank you for your sponsorship
+#description是指令的注释
+#HelloSolitary-Beborn游戏内输入的指令
+  #s:
+#    description: 发送消息
+#  FuZhuHolySword:
+#    description: 不告诉你
+  BeHunter:
+    description: 成为猎人
+  BeRunPlayer:
+    description: 成为玩家
+  StartHunterGame:
+    description: 开始猎人游戏
